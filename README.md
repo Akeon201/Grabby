@@ -4,7 +4,7 @@
 
 # Instructions
 
-1. Make sure you have **python** installed in your system.
+1. Make sure you have **python** installed on your computer. You can check this by running the command **'python --version'** in your terminal or command prompt.
 2. Install the packages **requests** and **bs4** using pip by running **'pip install requests bs4'** in the command line.
 3. Open the command line and navigate to the directory where the file is saved.
 4. Run the script by typing **'python filename.py'** in the command line
