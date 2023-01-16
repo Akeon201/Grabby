@@ -1,6 +1,6 @@
 # What is Grabby?
 
-&nbsp;&nbsp;&nbsp;&nbsp;It is a web scraping tool that allows the user to specify a website and a file type to search for. It downloads all the files of that type on the website to a specified folder. The user can input the website, file type and folder name they want to use. It uses the python library requests and BeautifulSoup to send requests to the website and parse the HTML content. The program will then search for all the links on the webpage and download the files that end with the specified file type. It also prints out if the program ran successfully or if there was an error.
+&nbsp;&nbsp;&nbsp;&nbsp;A web scraping tool that allows the user to specify a website and a file type to search for. It downloads all the files of that type on the website to a specified folder. The user can input the website, file type and folder name they want to use. It uses the python library requests and BeautifulSoup to send requests to the website and parse the HTML content. The program will then search for all the links on the webpage and download the files that end with the specified file type. It also prints out if the program ran successfully or if there was an error.
 
 # Instructions
 
