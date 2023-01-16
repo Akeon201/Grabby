@@ -12,6 +12,6 @@
 6. Website format: **'https://example.com/'**, filetype format: **'pdf'**, folder format: **'name'**
 7. After entering the required details, the script will create a folder with the given folder name(if it doesn't exist) and will download the files of the specified filetype from the given website and save them in the created folder.
 
-# Author
+# Authors
 
 Kenyon Leblanc
